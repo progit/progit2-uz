@@ -50,7 +50,7 @@ GEM
       yajl-ruby (~> 1.1.0)
     rake (10.3.2)
     ruby-rc4 (0.1.5)
-    rubyzip (1.1.6)
+    rubyzip (2.0.0)
     thread_safe (0.3.4)
     treetop (1.5.3)
       polyglot (~> 0.3)
